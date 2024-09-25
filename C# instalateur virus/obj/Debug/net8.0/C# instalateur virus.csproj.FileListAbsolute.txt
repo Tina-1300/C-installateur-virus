@@ -26,3 +26,4 @@ C:\Users\alexp\OneDrive\Bureau\C-installateur-virus\C# instalateur virus\obj\Deb
 C:\Users\alexp\OneDrive\Bureau\C-installateur-virus\C# instalateur virus\obj\Debug\net8.0\C# instalateur virus.pdb
 C:\Users\alexp\OneDrive\Bureau\C-installateur-virus\C# instalateur virus\obj\Debug\net8.0\C# instalateur virus.genruntimeconfig.cache
 C:\Users\alexp\OneDrive\Bureau\C-installateur-virus\C# instalateur virus\obj\Debug\net8.0\ref\C# instalateur virus.dll
+C:\Users\alexp\OneDrive\Bureau\C-installateur-virus\C# instalateur virus\obj\Debug\net8.0\C# instalateur virus.sourcelink.json

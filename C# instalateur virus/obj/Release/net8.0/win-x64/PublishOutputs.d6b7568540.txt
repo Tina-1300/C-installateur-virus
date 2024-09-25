@@ -1,0 +1,2 @@
+C:\Users\alexp\OneDrive\Bureau\C-installateur-virus\C# instalateur virus\bin\Release\net8.0\win-x64\publish\C# instalateur virus.pdb
+C:\Users\alexp\OneDrive\Bureau\C-installateur-virus\C# instalateur virus\bin\Release\net8.0\win-x64\publish\C# instalateur virus.exe

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "GGaRDWlJCUN4QewizVy7rw1KlEBaqOnNU5EXSDOCuuSWC9JxbbL6EG+nASNKPiLhLwJ8XLTsrMyLPsi8n/xB9w==",
+  "dgSpecHash": "x0XjvP3EZsWt0nPqJOtfmJjszru1Is28l6JkB0Q7TNouFyyY/ynlqmZSRyOoVgOeYh+7RdDaLgc1Kkzi2MNlvQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\alexp\\OneDrive\\Bureau\\C-installateur-virus\\C# instalateur virus\\C# instalateur virus.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\alexp\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\alexp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.4\\microsoft.netcore.app.runtime.win-x64.8.0.4.nupkg.sha512",
+    "C:\\Users\\alexp\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.4.nupkg.sha512",
+    "C:\\Users\\alexp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.4\\microsoft.aspnetcore.app.runtime.win-x64.8.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

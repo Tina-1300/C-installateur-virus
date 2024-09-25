@@ -1,0 +1,5 @@
+C:\Users\alexp\OneDrive\Bureau\C-installateur-virus\C# instalateur virus\obj\Debug\net8.0\win-x64\C# instalateur virus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexp\OneDrive\Bureau\C-installateur-virus\C# instalateur virus\obj\Debug\net8.0\win-x64\C# instalateur virus.AssemblyInfoInputs.cache
+C:\Users\alexp\OneDrive\Bureau\C-installateur-virus\C# instalateur virus\obj\Debug\net8.0\win-x64\C# instalateur virus.AssemblyInfo.cs
+C:\Users\alexp\OneDrive\Bureau\C-installateur-virus\C# instalateur virus\obj\Debug\net8.0\win-x64\C# instalateur virus.csproj.CoreCompileInputs.cache
+C:\Users\alexp\OneDrive\Bureau\C-installateur-virus\C# instalateur virus\obj\Debug\net8.0\win-x64\C# instalateur virus.sourcelink.json

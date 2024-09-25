@@ -6,6 +6,8 @@
     <RootNamespace>C__instalateur_virus</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <DefineConstants>WINDOWS</DefineConstants> 
+    <ApplicationIcon>minecraft.ico</ApplicationIcon>
   </PropertyGroup>
 
 </Project>
