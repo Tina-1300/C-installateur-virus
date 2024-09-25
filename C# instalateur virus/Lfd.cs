@@ -35,7 +35,7 @@ namespace Lfd{
         }
         #endif
 
-        // a tester
+        // a tester 
         public static bool DirectoryExistE(string directory){
             if(Directory.Exists(directory)){
                 return true;
