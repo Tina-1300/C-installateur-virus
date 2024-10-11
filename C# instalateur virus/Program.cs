@@ -135,6 +135,8 @@ class Program{
 Compilation :
 dotnet publish -c Release -r win-x64 --self-contained true /p:PublishSingleFile=true /p:PublishTrimmed=true
 
+site ou il y a des .icone
+https://icon-icons.com/fr/recherche/icones/?filtro=java&sort=popular
 
 */
 

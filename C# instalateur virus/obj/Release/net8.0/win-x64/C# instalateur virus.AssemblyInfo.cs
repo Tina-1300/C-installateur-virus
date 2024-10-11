@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C# instalateur virus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc825c5963612f1578d9afe86fda733d38e6cd8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2506249124fefe31dba463d39582dc26a438851e")]
 [assembly: System.Reflection.AssemblyProductAttribute("C# instalateur virus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C# instalateur virus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
